@@ -1,0 +1,21 @@
+.counter-container{
+    text-align: center;
+    align-items: center;
+
+}
+.counter-heading{
+    text-align: center;
+
+}
+.buttons-container{
+    text-align: center;
+}
+.decrease{
+    margin: 10px;
+}
+.reset{
+    margin: 10px;
+}
+.increase{
+    margin: 10px;
+}
