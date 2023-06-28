@@ -40,7 +40,7 @@ function onIncrement(){
     }
 
     else{
-        counterElement.style.color = "blue"
+        counterElement.style.color = "bl"
     }
 
     counterElement.textContent = updateCounterValue
